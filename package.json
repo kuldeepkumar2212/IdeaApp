@@ -1,0 +1,14 @@
+{
+  "name": "ideapp",
+  "version": "1.0.0",
+  "description": "to post ideas and read them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
